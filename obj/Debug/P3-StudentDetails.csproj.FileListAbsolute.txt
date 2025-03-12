@@ -1,0 +1,14 @@
+C:\Users\PGYSW023\source\repos\P3-StudentDetails\P3-StudentDetails\obj\Debug\P3-StudentDetails.csproj.AssemblyReference.cache
+C:\Users\PGYSW023\source\repos\P3-StudentDetails\P3-StudentDetails\obj\Debug\MainWindow.g.cs
+C:\Users\PGYSW023\source\repos\P3-StudentDetails\P3-StudentDetails\obj\Debug\App.g.cs
+C:\Users\PGYSW023\source\repos\P3-StudentDetails\P3-StudentDetails\obj\Debug\P3-StudentDetails_MarkupCompile.cache
+C:\Users\PGYSW023\source\repos\P3-StudentDetails\P3-StudentDetails\bin\Debug\P3-StudentDetails.exe.config
+C:\Users\PGYSW023\source\repos\P3-StudentDetails\P3-StudentDetails\bin\Debug\P3-StudentDetails.exe
+C:\Users\PGYSW023\source\repos\P3-StudentDetails\P3-StudentDetails\bin\Debug\P3-StudentDetails.pdb
+C:\Users\PGYSW023\source\repos\P3-StudentDetails\P3-StudentDetails\obj\Debug\MainWindow.baml
+C:\Users\PGYSW023\source\repos\P3-StudentDetails\P3-StudentDetails\obj\Debug\P3-StudentDetails.g.resources
+C:\Users\PGYSW023\source\repos\P3-StudentDetails\P3-StudentDetails\obj\Debug\P3_StudentDetails.Properties.Resources.resources
+C:\Users\PGYSW023\source\repos\P3-StudentDetails\P3-StudentDetails\obj\Debug\P3-StudentDetails.csproj.GenerateResource.cache
+C:\Users\PGYSW023\source\repos\P3-StudentDetails\P3-StudentDetails\obj\Debug\P3-StudentDetails.csproj.CoreCompileInputs.cache
+C:\Users\PGYSW023\source\repos\P3-StudentDetails\P3-StudentDetails\obj\Debug\P3-StudentDetails.exe
+C:\Users\PGYSW023\source\repos\P3-StudentDetails\P3-StudentDetails\obj\Debug\P3-StudentDetails.pdb
